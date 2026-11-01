@@ -1,0 +1,11 @@
+# Binaries and build artifacts
+*.o
+dorm_portal
+run_tests
+
+# Local Toolchain directory (extracted binaries/headers)
+toolchain/
+
+# Temporary files
+*.tmp
+*.log
